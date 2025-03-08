@@ -26,7 +26,7 @@ Frontend:
 Backend:
  - Node.js + Fastify
  - Prisma (ORM)
- - SQLite (banco de dados leve)
+ - Postgres (banco de dados)
 Autenticação:
  - OAuth via GitHub
 
